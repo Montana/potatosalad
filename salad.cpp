@@ -1,4 +1,4 @@
-#include <potatosalad.h>
+#include <salad.h>
 
 Potato::Potato(std::string type, std::string cutStyle){
 	m_type = type;
